@@ -13,12 +13,12 @@ public class Main{
         for(i=1; i<=5 ; i++){
             System.out.println("Hi There");
         }
-
+        infenet for loop
     }
     
     while (true){
-        System.out.println("Waine");
-    }
+        System.out.println("Kenneth");
+    } infenite while loop
     */
 }
 }
